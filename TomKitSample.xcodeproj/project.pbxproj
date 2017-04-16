@@ -12,6 +12,8 @@
 		8A67E0921EA308FC00680F9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A67E0901EA308FC00680F9F /* Main.storyboard */; };
 		8A67E0941EA308FC00680F9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A67E0931EA308FC00680F9F /* Assets.xcassets */; };
 		8A67E0971EA308FC00680F9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A67E0951EA308FC00680F9F /* LaunchScreen.storyboard */; };
+		8A67E09F1EA3093200680F9F /* TomKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A67E09E1EA3093200680F9F /* TomKit.swift */; };
+		8A67E0A31EA30E5600680F9F /* tom.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A67E0A21EA30E5600680F9F /* tom.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8A67E0931EA308FC00680F9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A67E0961EA308FC00680F9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A67E0981EA308FC00680F9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A67E09E1EA3093200680F9F /* TomKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TomKit.swift; sourceTree = "<group>"; };
+		8A67E0A21EA30E5600680F9F /* tom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tom.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +58,10 @@
 		8A67E08B1EA308FB00680F9F /* TomKitSample */ = {
 			isa = PBXGroup;
 			children = (
+				8A67E0A21EA30E5600680F9F /* tom.png */,
 				8A67E08C1EA308FC00680F9F /* AppDelegate.swift */,
 				8A67E08E1EA308FC00680F9F /* ViewController.swift */,
+				8A67E09E1EA3093200680F9F /* TomKit.swift */,
 				8A67E0901EA308FC00680F9F /* Main.storyboard */,
 				8A67E0931EA308FC00680F9F /* Assets.xcassets */,
 				8A67E0951EA308FC00680F9F /* LaunchScreen.storyboard */,
@@ -126,6 +132,7 @@
 			files = (
 				8A67E0971EA308FC00680F9F /* LaunchScreen.storyboard in Resources */,
 				8A67E0941EA308FC00680F9F /* Assets.xcassets in Resources */,
+				8A67E0A31EA30E5600680F9F /* tom.png in Resources */,
 				8A67E0921EA308FC00680F9F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +146,7 @@
 			files = (
 				8A67E08F1EA308FC00680F9F /* ViewController.swift in Sources */,
 				8A67E08D1EA308FC00680F9F /* AppDelegate.swift in Sources */,
+				8A67E09F1EA3093200680F9F /* TomKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
