@@ -1,6 +1,6 @@
 # TomKit
 
-Now, you, the humble iOS Developer can have the wonder and awe of Tom Oliver in your iOS app!
+Now you, the humble iOS Developer, can have the wonder and awe of Tom Oliver in your iOS app!
 
 ![example](http://i.imgur.com/KfAyyQV.png)
 
