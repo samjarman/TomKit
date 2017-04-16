@@ -7,17 +7,24 @@ Now you, the humble iOS Developer, can have the wonder and awe of Tom Oliver in 
 
 Use Tom for such awesome features as 
 
-### Onboarding Users
+## Onboarding Users
 ![clips](http://i.imgur.com/FtimSfC.png)
 
-### Feature Announcements
+## Feature Announcements
 ![twitter](http://i.imgur.com/nS9mipm.png)
 
-### Easter Eggs
+## Easter Eggs
 ![medium](http://i.imgur.com/jnUG2n2.png)
 
-### Highlighting Details
+## Highlighting Details
 ![twitter](http://i.imgur.com/uTJf6eQ.png)
+
+
+# Usage
+```swift
+ import TomKit
+ TomKit.getExcitedAboutPoint(point: someButton.center, inView: self.view)
+```
 
 
 # FAQ
